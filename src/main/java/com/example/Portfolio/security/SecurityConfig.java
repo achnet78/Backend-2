@@ -41,6 +41,7 @@ public class SecurityConfig {
         configuration.setAllowedOriginPatterns(Arrays.asList(
                 "http://dusurcrafts.com",
                 "https://idata.center",
+                "https://www.idata.center",
                 "https://ashraf-portfolio-indol.vercel.app",
                 "https://ashraf-portfolio-pi.vercel.app",
                 "http://localhost:5173",
